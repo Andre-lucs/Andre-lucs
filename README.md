@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">• Busco sempre me aperfeiçoar nas tecnologias.<br>• Sempre aberto a novas experiências. <br>• Gosto de desenvolver projetos interativos como jogos e sites  não estáticos.</h3>
+<h3 align="left">• Busco sempre me aperfeiçoar nas tecnologias.<br>• Prefiro linguagens fortemente tipadas (❤️ Java ❤️).<br>• Sempre aberto a novas experiências. <br>• Gosto de desenvolver projetos interativos como jogos e sites  não estáticos.</h3>
 
 ###
 
