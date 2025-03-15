@@ -1,8 +1,8 @@
-<h1 align="left">Sou André Lucas</h1>
+<h1 align="left">I am André Lucas</h1>
 
 ###
 
-<h3 align="left">• Desenvolvedor FullStack.<br>• Busco sempre me aperfeiçoar nas tecnologias que uso.<br>• Sempre aberto a novas experiências.</h3>
+<h3 align="left">• FullStack Developer.<br>• I always seek to improve on the technologies i am using.</h3>
 
 ###
 
